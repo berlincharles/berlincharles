@@ -62,7 +62,7 @@ Hi there 👋
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tylerlarsson&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true&count_private=true" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berlincharles&show_icons=true&theme=react&border_color=00dafb&include_all_commits=true&count_private=true" />
     </td>
     <td>
       <img height="180em" src="https://streak-stats.demolab.com?user=tylerlarsson&theme=react&border=00dafb&fire=DDB80F" />
